@@ -1,9 +1,9 @@
-1. Environment setup
+1. Environment setup 
     1) create Heroku account
     2) create cloud9 account and new workspace. 
     3) open a terminal and run command "wget  https://toolbelt.heroku.com/install-ubuntu.sh & ./install-ubuntu.sh"
     4) after the there will be heroku command group. 
-    5) setup git with following commands:
+    5) setup git with following commands: 
         git config --global user.name "YOUR NAME"
         git config --global user.email "YOUR EMAIL ADDRESS"
         git clone https://github.com/amateurlee/myProj.git
